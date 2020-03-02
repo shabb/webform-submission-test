@@ -1,0 +1,15 @@
+{
+    "name": "konecranes/webform-submission-test",
+    "type": "library",
+    "description": "This is the robot package which allows to test webform submission and check the response body response code and not the resposne code for Channel Suite.",
+    "keywords": ["robot","webform","webform-testing","submission"],
+    "homepage": "https://konecranes.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shabbir Reshamwala",
+            "email": "shabbir.reshamwala@mirumagency.com",
+            "role": "Developer"
+        }
+    ],
+}
